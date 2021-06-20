@@ -14,9 +14,9 @@
 | Date| Place | Lengths | Time (mins)|
 | :------------- |:-------------:| -----:|-----:|
 | 06/18/2021 | LR | 30 | 40 |
-
+| 06/19/2021 | LR | 24 |  |
 
 
 * CVP, canyon view pool,25 yards
-* LR, 25 meters
+* LR, 25 yards
 
