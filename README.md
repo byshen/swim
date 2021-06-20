@@ -2,7 +2,7 @@
 
 
 
-| Date| Place | Lengths |
+| Date| Place | Laps |
 | :------------- |:-------------:| -----:|
 | Mar 01. 2020 | CVP | 32 |
 | Feb 27. 2020 | CVP | 20 |
@@ -11,7 +11,7 @@
 
 
 **After pandemic**
-| Date| Place | Lengths | Time (mins)|
+| Date| Place | Laps | Time (mins)|
 | :------------- |:-------------:| -----:|-----:|
 | 06/18/2021 | LR | 30 | 40 |
 | 06/19/2021 | LR | 24 |  |
