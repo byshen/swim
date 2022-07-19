@@ -21,7 +21,9 @@
 | 07/03/2021 | LR | 20 |  |
 | 07/04/2021 | LR |  | 35 |
 | 07/11/2021 | LR |  | 45 |
+| 07/18/2022 | HW | 24 |  |
 
 * CVP, canyon view pool,25 yards
 * LR, 25 yards
+* HW, Highwater, 25 yards
 
