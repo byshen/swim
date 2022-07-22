@@ -23,10 +23,14 @@
 | 07/03/2021 | LR | 20 |  |
 | 07/04/2021 | LR |35 min  |  |
 | 07/11/2021 | LR | 45 min |  |
+
+| Date| Place | Laps | Notes|
+| :------------- |:-------------:|:-----:|:-----:|
 | 07/18/2022 | HW | 24 |  |
-| 07/20/2022 | HW | 40 |  with xy|
+| 07/20/2022 | HW | 40 | xy (40) |
+| 07/21/2022 | HW | 52 | xy (70) |
 
 * CVP, canyon view pool,25 yards
 * LR, 25 yards
-* HW, Highwater, 25 yards
+* HW, Highwater, 50 ft (15.5m)
 
